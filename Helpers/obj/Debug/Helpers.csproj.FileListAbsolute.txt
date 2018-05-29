@@ -1,0 +1,6 @@
+C:\Users\User\Downloads\Conf\Conference\Helpers\bin\Debug\Helpers.dll
+C:\Users\User\Downloads\Conf\Conference\Helpers\bin\Debug\Helpers.pdb
+C:\Users\User\Downloads\Conf\Conference\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Conf\Conference\Helpers\obj\Debug\Helpers.dll
+C:\Users\User\Downloads\Conf\Conference\Helpers\obj\Debug\Helpers.pdb
+C:\Users\User\Downloads\Conf\Conference\Helpers\bin\Debug\websocket-sharp.dll

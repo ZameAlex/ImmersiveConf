@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\Conf\Conference\Conference\bin\Release\Conference.exe.config
+C:\Users\User\Downloads\Conf\Conference\Conference\bin\Release\Conference.exe
+C:\Users\User\Downloads\Conf\Conference\Conference\bin\Release\Conference.pdb
+C:\Users\User\Downloads\Conf\Conference\Conference\bin\Release\Helpers.dll
+C:\Users\User\Downloads\Conf\Conference\Conference\bin\Release\websocket-sharp.dll
+C:\Users\User\Downloads\Conf\Conference\Conference\bin\Release\Helpers.pdb
+C:\Users\User\Downloads\Conf\Conference\Conference\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Conf\Conference\Conference\obj\Release\Conference.exe
+C:\Users\User\Downloads\Conf\Conference\Conference\obj\Release\Conference.pdb

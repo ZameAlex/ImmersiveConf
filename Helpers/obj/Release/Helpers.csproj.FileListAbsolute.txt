@@ -1,0 +1,5 @@
+C:\Users\User\Downloads\Conf\Conference\Helpers\bin\Release\Helpers.dll
+C:\Users\User\Downloads\Conf\Conference\Helpers\bin\Release\Helpers.pdb
+C:\Users\User\Downloads\Conf\Conference\Helpers\bin\Release\websocket-sharp.dll
+C:\Users\User\Downloads\Conf\Conference\Helpers\obj\Release\Helpers.dll
+C:\Users\User\Downloads\Conf\Conference\Helpers\obj\Release\Helpers.pdb

@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\Conf\Conference\Sender\bin\Debug\Sender.exe.config
+C:\Users\User\Downloads\Conf\Conference\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Conf\Conference\Sender\bin\Debug\Sender.exe
+C:\Users\User\Downloads\Conf\Conference\Sender\bin\Debug\Sender.pdb
+C:\Users\User\Downloads\Conf\Conference\Sender\bin\Debug\AForge.dll
+C:\Users\User\Downloads\Conf\Conference\Sender\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Downloads\Conf\Conference\Sender\bin\Debug\AForge.Video.dll
+C:\Users\User\Downloads\Conf\Conference\Sender\bin\Debug\Helpers.dll
+C:\Users\User\Downloads\Conf\Conference\Sender\bin\Debug\websocket-sharp.dll
+C:\Users\User\Downloads\Conf\Conference\Sender\bin\Debug\Helpers.pdb
+C:\Users\User\Downloads\Conf\Conference\Sender\bin\Debug\AForge.xml
+C:\Users\User\Downloads\Conf\Conference\Sender\bin\Debug\AForge.Video.xml
+C:\Users\User\Downloads\Conf\Conference\Sender\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\User\Downloads\Conf\Conference\Sender\obj\Debug\Sender.exe
+C:\Users\User\Downloads\Conf\Conference\Sender\obj\Debug\Sender.pdb
